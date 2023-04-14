@@ -37,3 +37,5 @@ FInal Displacement Error (FDE) is the distance between predicted final destinati
 | **ZARA2**                     |  3.2690  |**2.2892**|
 | **UNIV**                     | 5.5075   |**3.2343**|
 | **Average**                     | 5.1107   |**2.8920**|
+
+Thank Anirudh Vemula for its Social-LSTM code. https://github.com/avijit9/social-lstm-pytorch
