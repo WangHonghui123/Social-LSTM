@@ -1,0 +1,6 @@
+epoch: 0 Epoch_Loss: 2.4594487408061085
+epoch: 1 Epoch_Loss: 2.6086384190453424
+epoch: 2 Epoch_Loss: 1.2310594614641166
+epoch: 3 Epoch_Loss: 1.4952560151800698
+epoch: 4 Epoch_Loss: 1.7142852265157817
+The best validation epoch is: 2 The best validation loss is: 1.2310594614641166

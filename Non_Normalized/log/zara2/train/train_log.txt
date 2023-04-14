@@ -1,0 +1,6 @@
+epoch: 0 Epoch_Loss: 3.9814247818080926
+epoch: 1 Epoch_Loss: 2.603989707454582
+epoch: 2 Epoch_Loss: 2.2485927315028897
+epoch: 3 Epoch_Loss: 2.0564869399313914
+epoch: 4 Epoch_Loss: 1.9466046864921056
+The best training epoch is: 4 The best training loss is: 1.9466046864921056
