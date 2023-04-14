@@ -9,6 +9,7 @@ Data processing part will be added to my master's thesis.
 ## Introduction
 The data processing in pedestrian trajectory prediction generally uses signal processing since these data contain timeporal information. 
 I rewrite Social-LSTM algorithm for normalized complete trajectory prediction and non-normalized complete trajectory prediction. 
+
 The code regarding Social-LSTM algorithm for normalized complete trajectory prediction has been stored in the **Normalized** directory; 
 The code regarding Social-LSTM algorithm for non-normalized complete trajectory prediction has been stored in the **Non_Normalized** directory.
 
