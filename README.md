@@ -19,7 +19,7 @@ The result of Social-LSTM algorithm on normalized complete trajectory prediction
 **ADE:**
 Average Displacement Error (ADE) is the mean square error (MSE) over all estimated points of a trajectory and true points.
 
-| **Dataset**                           | **Social-LSTM (Non normalized)** | **Social-LSTM (Non normalized)**  |
+| **Dataset**                           | **Social-LSTM (Non normalized)** | **Social-LSTM (Normalized)**  |
 | --------------------------------- | --------- |-----------------|
 | **ETH**                     | 4.0781  |**1.9927**|
 | **HOTEL**                     | 6.8003   |**1.4552**|
@@ -30,7 +30,7 @@ Average Displacement Error (ADE) is the mean square error (MSE) over all estimat
 
 **FDE:**
 FInal Displacement Error (FDE) is the distance between predicted final destination and true final destination at the end of prediction period (20 frames)
-| **Dataset**                           | **Social-LSTM (Non normalized)** | **Social-LSTM (Non normalized)**  |
+| **Dataset**                           | **Social-LSTM (Non normalized)** | **Social-LSTM (Normalized)**  |
 | --------------------------------- | --------- |-----------------|
 | **ETH**                     | 5.2299  |**3.5463**|
 | **HOTEL**                     | 8.3780   |**2.4048**|
